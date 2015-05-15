@@ -21,7 +21,6 @@ def analyze(design):
                     ANALYSIS[newstate] = path
                     queue.append((newstate, path + [newstate]))
                     visited.append(newstate)
-                print newstate
     
     # TODO: fill in this function, populating the ANALYSIS dict
 
