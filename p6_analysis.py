@@ -32,13 +32,12 @@ def inspect((i,j), draw_line):
         #print next[0]
         #print (i,j)
         if i is next[0][0] and j is next[0][1]:
+            pos, abil = next
             path = ANALYSIS[next]
             for n in range(len(path) - 1):
                 found = True
-                draw_line(path[n][0], path[n+1][0])
-            draw_line(path[-1][0], (i,j))
+                draw_line(path[n][0], path[n+1][0], color_obj=path[n][1])
+            draw_line(path[-1][0], (i,j), color_obj=path[-1][1])
             break
     if not found:
         print "Nothing found"
-    
-    
