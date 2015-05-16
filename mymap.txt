@@ -1,0 +1,15 @@
+E E E E E E E E E E E E E E E 
+E E E A A A A A A A A A A A E
+E E E 3 A A A A A A A A A A E
+E E E E E E E E E E E E E A E 
+E A A A A E E E E A A A A A E 
+E A A A A E E E E A A A A A E 
+E A A E A A A A A A E F F F E 
+E A A E A A A A A A E E F F E
+E W W E E E E A A A E E E 1 E
+E W W E W 5 E A E E E E E E E 
+E W W E W E E A E E A A A A E 
+E W W E W E E A E A A E A A E 
+E W W W W E E A A A E E A A E 
+E 2 W W W E E 0 A E E E A 4 E 
+E E E E E E E E E E E E E E E 
